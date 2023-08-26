@@ -5,3 +5,4 @@ A set of back-end default alternatives, tools and boiler plates to use in projec
 ## Typescript
 
 - [expressBoilerplate](./Typescript//expressBoilerplate/)
+- [jwt](./Typescript//jwt/)
